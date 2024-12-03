@@ -1,0 +1,2 @@
+# fwad
+Laborator1
